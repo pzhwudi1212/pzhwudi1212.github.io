@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Zhihao Peng's Academic Website
-
 ## About Me
 
 I am a graduate student at **China University of Geosciences (Wuhan)**, currently pursuing a Master's degree in **Computer Science**. My research focuses on **Computer Vision**, specifically in **Single Image Super-Resolution (SISR)**. My work aims to improve the quality and efficiency of image reconstruction, particularly in low-resolution image enhancement.
@@ -65,25 +63,3 @@ Project Overview: We propose an improved multi-scale detection network built upo
 - **Computer Vision Tools**: OpenCV, PIL, scikit-image  
 - **Development Environment**: Ubuntu, Docker, VMware  
 - **Data Processing and Analysis**: NumPy, Pandas, SciPy
-
-## Contact Information
-
-- **Email**: [pengzh@cug.edu.cn](mailto:pengzh@cug.edu.cn)  
-- **GitHub**: [github.com/pengzhihao](https://github.com/pengzhihao)  
-- **ResearchGate**: [ResearchGate Profile](https://www.researchgate.net/profile/Zhihao-Peng)
-
----
-
-### Template Explanation:
-
-1. **About Me**: A brief introduction highlighting your background, research focus, and academic goals.
-2. **Research Interests**: A list of your key research topics to give visitors a clear understanding of your academic focus.
-3. **Education**: An overview of your current academic status, research focus, and supervisor.
-4. **Academic Achievements**: Showcase your published papers and conference talks, along with abstracts that describe the contributions and impact of your work.
-5. **Research Projects**: Describe any ongoing or completed projects, providing context on your contributions and outcomes.
-6. **Technical Skills**: List programming languages, frameworks, and tools that you are proficient in, giving visitors a sense of your technical capabilities.
-7. **Contact Information**: Provide various ways for people to reach out to you, including email and links to your professional profiles on GitHub or ResearchGate.
-
----
-
-You can modify this template further by adding specific details about your work, publications, and teaching, as well as including any other content you may want to highlight. Feel free to personalize the sections as needed! Let me know if you'd like any more tweaks or additions.
